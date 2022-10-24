@@ -1,8 +1,8 @@
 package Model;
 
 public enum EnumEventType {
-    MOVIE,
+    POEM,
     DRAMA,
-    CIRCUS,
-    FESTIVAL
+    CRIMINAL,
+    PLAY
 }

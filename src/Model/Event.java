@@ -1,10 +1,11 @@
 package Model;
 
-import java.time.LocalDateTime;
+import java.time.LocalDate;
 
 public class Event {
     private EnumEventType eventType;
-    private String name;
-    private int ticketsQuantity;
-    private LocalDateTime date;
+    private String title;
+    private int numberOfTickets;
+    private LocalDate date;
+
 }

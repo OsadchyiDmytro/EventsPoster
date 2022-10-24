@@ -1,5 +1,5 @@
 type,event_type,event,quantity,date
 get,social poem,Kaidash family,400,2022-10-18
-buy,event_type,For reasons of conscience,600,2022-10-17
+buy,event_type,Titanic,600,2022-10-17
 cancel,event_type,For reasons of conscience,12,2022-10-15
 get,drama,Titanic,100,2022-10-18
